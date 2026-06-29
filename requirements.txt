@@ -9,3 +9,5 @@ pymupdf
 langchain-text-splitters
 wikipedia
 faiss-cpu
+chromadb
+langchain_chroma
